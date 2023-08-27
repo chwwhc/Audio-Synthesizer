@@ -1,3 +1,7 @@
+
+
+https://github.com/chwwhc/Audio-Synthesizer/assets/74874709/fb5c8538-7b8e-4d5f-879f-90bf2a224003
+
 # Audio Synthesizer 
 
 ![Synthesizer screen shot](./pics/synth-pic.png)
